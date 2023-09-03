@@ -1,0 +1,16 @@
+django
+django[argon2]
+django-simple-history
+django-js-reverse
+django-logentry-admin
+django-debug-toolbar
+django-extensions
+python-dateutil
+docutils
+model_mommy
+Faker
+pytz
+arrow
+python-memcached
+pymysql
+tqdm
